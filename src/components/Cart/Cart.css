@@ -1,0 +1,29 @@
+
+.cart {
+    border: ridge;
+    background-color: antiquewhite;
+}
+
+.cart .list-group-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cart .list-group {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.sum-footer {
+    background: skyblue;
+    padding: 0;
+}
+
+.cart-header {
+    background: darkorange;
+}
+
+.price {
+    float: right;
+}

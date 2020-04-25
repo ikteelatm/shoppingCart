@@ -1,0 +1,47 @@
+
+.card {
+  background-color: #def7ff; /*#bdf3cb;*/
+  border-radius: 2rem !important;
+  /* border: 0.65rem solid rgb(195, 245, 255);*/ /*rgb(195, 212, 255);*/
+  font-size: 1.2rem;
+  border: none !important;
+}
+
+.card-header {
+    background: antiquewhite;
+}
+
+.card-footer {
+    background: aquamarine;
+}
+
+.my-card {
+    margin-bottom: 20px;
+}
+
+.price_and_level {
+    float: left;
+}
+
+.list-group-item {
+    background: none !important;
+    border: none;
+    padding: 0;
+}
+
+.add_remove_course {
+    float: right;
+}
+
+.remove-course {
+    margin-left: 10px;
+    background: url(../../icons/removeFromCart.png) center/cover no-repeat white;
+    width: 40px;
+    height: 40px;
+}
+
+.add-course {
+    background: url(../../icons/addToCart.png) center/cover no-repeat white;
+    width: 40px;
+    height: 40px;
+}

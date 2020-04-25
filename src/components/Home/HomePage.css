@@ -1,0 +1,16 @@
+
+.container {
+    max-width: 1400px;
+}
+
+.cart {
+    width:28%;
+    float: right;
+}
+
+.courses {
+    width:70%;
+    margin-right:2%;
+    float: left;
+    margin-bottom: 40px;
+}
